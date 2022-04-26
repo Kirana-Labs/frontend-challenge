@@ -1,2 +1,18 @@
-# frontend-challenge
-Frontend developer challenge for candidates of Kirana Labs
+# Introduction
+Hello! If you are here, then you probably applied for a Frontend position at [Kirana Labs](https://kiranalabs.mx), welcome! You are very few steps away from joining the team and we could not be more excited. This challenge is meant to test your analytical and coding skills and should not take you more than 2 hours to complete (although it usually is a lot less). 
+
+# The challenge
+This repo includes a CSV file that we need to process and render on a web page. The CSV file contains phone book data about people, their name, email and phone number, but regretfully the data *is a mess*™.
+
+We need a platform in which the user can upload a CSV file with the same structure as the one included in this repo and the system will:
+- Display the CSV values in a table
+- Remove lines that are completely duplicated (two lines are completely duplicated if they share the exact same data in name, email and phone number)
+- Highlight with red color the lines that contain repeated values
+- Count the number of lines that have duplicated values and display the number in the platform above the table
+- Show the total number of people in the phone book
+
+You have **2 hours** to complete the challenge from your first commit. Once you finish, share your repo URL to reclutamiento@kiranalabs.mx
+
+# Contributors
+If you have any questions, please feel free to reach out to any of the following contributors:
+- [Juan Manuel Pérez](mailto:juanma@kiranalabs.mx)
