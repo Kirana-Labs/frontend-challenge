@@ -2,6 +2,8 @@
 ¡Hola! Si estás aquí, probablemente hayas solicitado un puesto de Frontend en Kirana Labs, ¡bienvenido! Estás a muy pocos pasos de unirte al equipo y no podríamos estar más emocionados. Este desafío está destinado a poner a prueba tus habilidades analíticas y de programacion, y no debería llevarte más de 2 horas completarlo (aunque por lo general es mucho menos). Se puede hacer con cualquier framework con el que te sientas más cómodo.
 
 # El reto
+Crea tu propio repositorio donde desarrollarás el desafío, no hagas commit, push o PRs a este repositorio.
+
 Este repositorio incluye un archivo CSV que necesitamos procesar y representar en una página web. El archivo CSV contiene datos de la guía telefónica sobre personas, su nombre, correo electrónico y número de teléfono, pero lamentablemente los datos *son un desastre*™.
 
 Necesitamos una plataforma en la que el usuario pueda cargar un archivo CSV con la misma estructura que el incluido en este repositorio y el sistema:
