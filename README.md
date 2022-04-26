@@ -17,3 +17,6 @@ You have **2 hours** to complete the challenge from your first commit. Once you 
 # Contributors
 If you have any questions, please feel free to reach out to any of the following contributors:
 - [Juan Manuel Pérez](mailto:juanma@kiranalabs.mx)
+
+
+PS. Puedes encontrar la versión en español de este reto aquí: [README-es.md](/README-es.md)
