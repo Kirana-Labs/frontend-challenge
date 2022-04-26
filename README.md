@@ -8,6 +8,7 @@ We need a platform in which the user can upload a CSV file with the same structu
 - Display the CSV values in a table
 - Remove lines that are completely duplicated (two lines are completely duplicated if they share the exact same data in name, email and phone number)
 - Highlight with red color the lines that contain repeated values
+- Highlight with yellow the values that are invalid (an invalid email or invalid phone number [not 10 digits])
 - Count the number of lines that have duplicated values and display the number in the platform above the table
 - Show the total number of people in the phone book
 
