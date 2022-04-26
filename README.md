@@ -1,5 +1,5 @@
 # Introduction
-Hello! If you are here, then you probably applied for a Frontend position at [Kirana Labs](https://kiranalabs.mx), welcome! You are very few steps away from joining the team and we could not be more excited. This challenge is meant to test your analytical and coding skills and should not take you more than 2 hours to complete (although it usually is a lot less). 
+Hello! If you are here, then you probably applied for a Frontend position at [Kirana Labs](https://kiranalabs.mx), welcome! You are very few steps away from joining the team and we could not be more excited. This challenge is meant to test your analytical and coding skills and should not take you more than 2 hours to complete (although it usually is a lot less). It can be done with whatever framework you feel more comfortable with.
 
 # The challenge
 This repo includes a CSV file that we need to process and render on a web page. The CSV file contains phone book data about people, their name, email and phone number, but regretfully the data *is a mess*™.
