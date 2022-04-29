@@ -14,7 +14,7 @@ We need a platform in which the user can upload a CSV file with the same structu
 - Count the number of lines that have duplicated values and display the number in the platform above the table
 - Show the total number of people in the phone book
 
-You have **2 hours** to complete the challenge from your first commit. Once you finish, share your repo URL to reclutamiento@kiranalabs.mx
+You have **2 hours** to complete the challenge from your first commit. Once you finish, share your repo URL to juanma@kiranalabs.mx
 
 # Contributors
 If you have any questions, please feel free to reach out to any of the following contributors:
