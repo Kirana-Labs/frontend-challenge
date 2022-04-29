@@ -14,7 +14,7 @@ Necesitamos una plataforma en la que el usuario pueda cargar un archivo CSV con 
 - Cuente el número de líneas que tienen valores duplicados y muestre el número en la plataforma encima de la tabla
 - Muestre el número total de personas en la guía telefónica
 
-Tienes 2 horas para completar el desafío. Una vez que termines, comparte la liga de tu repositorio a reclutamiento@kiranalabs.mx
+Tienes 2 horas para completar el desafío. Una vez que termines, comparte la liga de tu repositorio a juanma@kiranalabs.mx
 
 # Colaboradores
 Si tiene alguna pregunta, no dudes en comunicarse con cualquiera de los siguientes colaboradores:
