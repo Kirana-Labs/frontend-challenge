@@ -21,4 +21,4 @@ If you have any questions, please feel free to reach out to any of the following
 - [Juan Manuel Pérez](mailto:juanma@kiranalabs.mx)
 
 
-PS. Puedes encontrar la versión en español de este reto aquí: [README-es.md](/README-es.md)
+PS. Puedes encontrar la versión en español de este reto aquí: [README-es.md](/README.md)
