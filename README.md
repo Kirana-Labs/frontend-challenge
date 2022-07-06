@@ -20,4 +20,4 @@ Tienes 2 horas para completar el desafío. Una vez que termines, comparte la lig
 Si tiene alguna pregunta, no dudes en comunicarse con cualquiera de los siguientes colaboradores:
 - [Juan Manuel Pérez](mailto:juanma@kiranalabs.mx)
 
-PS. You can find the english version of this challenge here: [README-en.md](#README-en.md)
+PS. You can find the english version of this challenge here: [README-en.md](/README-en.md)
